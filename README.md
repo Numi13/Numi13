@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Numi13
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on music project
 
 <!---
